@@ -33,5 +33,5 @@ kubectl apply -f server/manifest.yaml
 ## gateway
 
 ```bash
-kubectl apply -f server/gateway.yaml
+kubectl apply -f gateway.yaml
 ```
