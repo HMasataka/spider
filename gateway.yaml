@@ -28,6 +28,6 @@ spec:
         prefix: /
     route:
     - destination:
-        host: go-example
+        host: go-client
         port:
           number: 8080
